@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "stream_app",
+      "database": "stream_app",
+      "username": "root",
+      "password": "secret"
+    }
+  ]
+}
